@@ -1,16 +1,14 @@
-# `🧿 𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝 🔮`
+´𝖙𝖍𝖊 𝖇𝖔𝖙 𝖓𝖊𝖝𝖚𝖘´
 
 ### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTANOS 👑`
-<a href="http://wa.me/56920684086"
-
+" http://wa.me/56920684086 "
 ### `—◉ 💟 GRUPO DE SOPORTE 💟`
-<a href="https://chat.whatsapp.com/DNJ4Ppm5ysn3fhjGflrr0J" target="blank"><img src="https://img.shields.io/badge/GRUPO_DE_SOPORTE-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+https://chat.whatsapp.com/DJCNIgurIdd80yZ8KFYAvf
 </a>
 > LOS NUMEROS NO SON BOTS Y EN EL GRUPO NO SE PERMITEN NUMEROS-BOTS
 
 ### `—◉ 🤖 BOTS OFICIALES 🤖`
-
-<a href="https://api.whatsapp.com/send/?phone=5219993404349&text&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT-OFICIAL.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+wa.me/56920684086
 
  > NO SPAMEAR COMANDOS
 
