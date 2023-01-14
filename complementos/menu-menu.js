@@ -26,14 +26,13 @@ let readMore = more.repeat(850)
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 let str = `
 ╭═══〘 ✯✯✯✯✯✯✯✯✯ 〙══╮
-║    ◉— *𝐓𝐡𝐞 𝐌𝐲𝐬𝐭𝐢𝐜 - 𝐁𝐨𝐭* —◉
-║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║
+║    ◉— *𝖙𝖍𝖊 𝖇𝖔𝖙 𝖓𝖊𝖝𝖚𝖘*
+║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ║➤ *𝗛ola, ${taguser}*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║
-║➤ *Owner:* Bruno Sobrino
-║➤ *Numero:* wa.me/5219992095479
-║➤ *Bot ofc:* wa.me/529993404349
-║➤ *PayPal:* https://www.paypal.me/TheShadowBrokers133
+║➤ *Owner:*𝖓𝖊𝖝𝖚𝖘*
+║➤ *Numero:* wa.me/56920684086
+║➤ *Bot ofc:* wa.me/56920684086
 ║➤ *Fecha:* ${date}
 ║➤ *Tiempo activo:* ${uptime}
 ║➤ *Usuarios:* ${rtotalreg}
@@ -626,8 +625,8 @@ externalAdReply: {
 showAdAttribution: true,
 mediaType: 'VIDEO',
 mediaUrl: null,
-title: '👑 𝐓𝐇𝐄 𝐌𝐘𝐒𝐓𝐈𝐂 - 𝐁𝐎𝐓 👑',
-body: null,
+título : '👑 🆃🅷🅴 🅱🅾🆃 🅽🅴🆇🆄🆂👑´
+cuerpo : nulo ,
 thumbnail: img,
 sourceUrl: `https://www.paypal.me/TheShadowBrokers133`
 }}}
